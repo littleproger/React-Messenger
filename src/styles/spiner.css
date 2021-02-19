@@ -1,0 +1,18 @@
+.spiner{
+    max-width: 100px;
+    max-height: 100px;
+    width: 50%;
+    height: 50%;
+    border:15px solid rgba(243, 243, 243, 0.65);
+    border-top: 15px solid rgb(216, 216, 216);
+    border-bottom: 15px solid rgb(216, 216, 216);
+    border-radius: 50%;
+    animation: 1s loop infinite;
+}
+@keyframes loop{
+    0%{
+        transform: rotate(0);
+    }100%{
+        transform: rotate(360deg);
+    }
+}

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-part2/static/css/main.4e276225.chunk.css",
-    "main.js": "/React-part2/static/js/main.bb415973.chunk.js",
-    "main.js.map": "/React-part2/static/js/main.bb415973.chunk.js.map",
-    "runtime-main.js": "/React-part2/static/js/runtime-main.eae73ae5.js",
-    "runtime-main.js.map": "/React-part2/static/js/runtime-main.eae73ae5.js.map",
-    "static/js/2.2cd5563d.chunk.js": "/React-part2/static/js/2.2cd5563d.chunk.js",
-    "static/js/2.2cd5563d.chunk.js.map": "/React-part2/static/js/2.2cd5563d.chunk.js.map",
-    "index.html": "/React-part2/index.html",
-    "static/css/main.4e276225.chunk.css.map": "/React-part2/static/css/main.4e276225.chunk.css.map",
-    "static/js/2.2cd5563d.chunk.js.LICENSE.txt": "/React-part2/static/js/2.2cd5563d.chunk.js.LICENSE.txt"
+    "main.css": "/React-Messenger/static/css/main.4e276225.chunk.css",
+    "main.js": "/React-Messenger/static/js/main.bb415973.chunk.js",
+    "main.js.map": "/React-Messenger/static/js/main.bb415973.chunk.js.map",
+    "runtime-main.js": "/React-Messenger/static/js/runtime-main.56f3bf6b.js",
+    "runtime-main.js.map": "/React-Messenger/static/js/runtime-main.56f3bf6b.js.map",
+    "static/js/2.2cd5563d.chunk.js": "/React-Messenger/static/js/2.2cd5563d.chunk.js",
+    "static/js/2.2cd5563d.chunk.js.map": "/React-Messenger/static/js/2.2cd5563d.chunk.js.map",
+    "index.html": "/React-Messenger/index.html",
+    "static/css/main.4e276225.chunk.css.map": "/React-Messenger/static/css/main.4e276225.chunk.css.map",
+    "static/js/2.2cd5563d.chunk.js.LICENSE.txt": "/React-Messenger/static/js/2.2cd5563d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eae73ae5.js",
+    "static/js/runtime-main.56f3bf6b.js",
     "static/js/2.2cd5563d.chunk.js",
     "static/css/main.4e276225.chunk.css",
     "static/js/main.bb415973.chunk.js"

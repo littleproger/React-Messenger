@@ -32,7 +32,7 @@ export default function Time(props) {
     }
     if( todayMonth !== monthNmb){
       return helper(`${date} ${month}`, props.cls)
-    }
+    }else{ return null; }
   } else {
     return null;
   }
